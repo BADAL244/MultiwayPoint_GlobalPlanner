@@ -59,3 +59,10 @@ opencv_tracking
 opencv_stereo
 opencv_python3
 opencv_python2
+
+
+
+https://towardsdatascience.com/using-tfrecords-to-train-a-cnn-on-mnist-aec141d65e3d
+https://towardsdatascience.com/custom-audio-classification-with-tensorflow-af8c16c38689
+https://towardsdatascience.com/training-a-neural-network-on-tfrecord-files-8bff3b6e9ff4
+https://github.com/phrasenmaeher/custom-audio-classification-tf

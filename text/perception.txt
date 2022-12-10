@@ -1,0 +1,9 @@
+https://github.com/leofansq/3D-Detection
+https://github.com/leofansq/SIFT
+https://github.com/leofansq/Tools_Merge_Image_PointCloud
+https://github.com/leofansq/Lane_Follower
+https://github.com/leofansq/ROS_NDT_Mapping
+https://github.com/leofansq/ROS_NDT_Localizer
+https://github.com/leofansq/ROS_Object_Cluster
+https://github.com/leofansq/ROS_Waypoints_Processor
+https://github.com/leofansq/ROS_Pure_Pursuit
